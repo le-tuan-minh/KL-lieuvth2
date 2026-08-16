@@ -1,5 +1,6 @@
 unused/
 kaggle/
-df_woe.csv
-df_woe_long_list.csv
-master_data_train_test_split.csv
+
+**/df_woe.csv
+**/df_woe_long_list.csv
+**/master_data_train_test_split.csv
